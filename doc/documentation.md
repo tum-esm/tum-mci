@@ -1,11 +1,5 @@
 # Munich Emission Inventory
 
-> **Summary** <br>
-> Emission inventory with high spatial resolution for the City of Munich for the years of 2019-2022. The inventory is a combined product of bottom-up estimates based on local data (For Sector A, C, F, Human Resp.) developed by TUM and a spatially downscaled regional inventory for the remaining sectors provided by TNO.
-
-
----
-
 ## Introduction
 The City of Munich (Landeshauptstadt München, LHM), located in the South East of Germany, spans 310.7 km<sup>2</sup>. With a population of over 1.5 Million, it is the third largest city in Germany. Due to its importance to the economy and good living conditions, the population is expected to grow to 1.8 Million by 2040. Munich plans to become climate-neutral by 2035.<br>
 The City of Munich publishes total yearly CO<sub>2</sub> emissions based on the BISKO methodology (Bilanzierungs-Systematik Kommunal). The latest report is from 2022 and lists emissions from 1990 to 2019. In addition, a spatial inventory is available from the German Environmental Agency (Umweltbundesamt, UBA) and the Netherlands Organisation for Applied Scientific Research (Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek, TNO) with a spatial resolution of 1x1 km<sup>2</sup>. and 1/60° x 1/120° respectively. Both inventories combine spatially disaggregated bottom-up estimates and point sources with exact locations for some sectors with proxy-based downscaling of national emissions for the remaining ones. However, none of the available spatial emission inventories satisfies the project requirements.<br>
@@ -13,7 +7,7 @@ The sectors of public power, stationary combustion, road transport, and human re
 Deliverable 1.2 for Munich provides a gridded emission inventory for the years of 2019 to 2022 with a spatial resolution of 1/600° x 1/1200° (about 100x100 m<sup>2</sup>). A summary of the characteristics of this emission inventory and the methodology for each sector is included in Table 4. An executive summary of the methodology can be found in section 4.1. Figure 1 shows the gridded product and point sources within the administrative boundary of the City of Munich. Densely built-up areas and streets are clearly discernible.</summary> <br><br>
 
 <p align="center">
-<img src="plots/CO2_year2022.png" alt="drawing" width="500" float= "center"/>
+<img src="../img/CO2_year2022.png" alt="drawing" width="500" float= "center"/>
 </p>
 
 ## Methodology
@@ -41,7 +35,7 @@ CO2 from Human respiration is separated into three sectors: "indoor residential
 The remaining sectors were provided by TNO and were downscaled to 1/600° x 1/1200°. The data is based on TNO-GHGco V4.1. 
 
 ## Temporal Profiles
-Temporal profiles for different sectors based on local data can be found in respective folders of [01_input_data](01_input_data).
+Temporal profiles for different sectors based on local data can be found in respective folders of [data](data).
 
 ## Characteristics of the City Emission Inventory of Munich
 
