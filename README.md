@@ -13,14 +13,21 @@
 - [img](img) contains plots of the inventory.
 
 
-## Dev Setup
+## Setup Instructions
 
-If you want to run any of the files in [code](code/), use *uv* to set up a virtual environment and install required packages.
-
+1. Clone the project
 ```bash
-uv sync
+git clone https://github.com/yourusername/tum-mci.git
+cd tum-mci
 ```
-
+2. [Install uv](https://docs.astral.sh/uv/getting-started/installation/) (if not installed)
+```bash
+pip install uv 
+```
+3. Sync Environment
+```bash
+uv sync         # Install dependencies from pyproject.toml
+```
 
 ## Related Literature
 
