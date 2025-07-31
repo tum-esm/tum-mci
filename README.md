@@ -1,4 +1,4 @@
- # Munich Emission Inventory
+ # Munich City Inventory
 
 > Munich, the third-largest city in Germany, with over 1.5 million residents, is set to grow to 1.8 million by 2040, propelled by its economic significance and high living standards. The city aims to achieve climate neutrality by 2035. Annual CO2 emissions are reported using the BISKO methodology, detailing emissions from 1990 to 2019. Spatial inventories from the German Environmental Agency and TNO provide insights, but none fully meet project requirements. Sectors such as public power, stationary combustion, road transport, and human respiration, which contribute over 90 percent of CO2 emissions, are analyzed using a bottom-up approach with local data. The resulting gridded emission inventory covers 2019 to 2022 with a resolution of 100x100 m².</br>
 
