@@ -2,8 +2,8 @@
 
 > Emission inventory with high spatial resolution for the City of Munich. The inventory is a combined product of bottom-up estimates based on local data (currently for sectors A, C, F, Human Resp.) developed by TUM and a spatially downscaled regional inventory for the remaining sectors provided by TNO.
 
-> Documentation: [Methods](doc/documentation.md) <br>
-> Documentation Outputs: [Outputs](output/README.md) <br>
+> Documentation [Methods](doc/documentation.md) <br>
+> Documentation [Outputs](output/README.md) <br>
 > Unit of the Emissions: **kg/ cell**</br>
 > Coordinate Reference System: **EPSG 25832** </br>
 
