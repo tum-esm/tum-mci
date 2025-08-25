@@ -32,9 +32,12 @@ uv sync         # Install dependencies from pyproject.toml
 
 ## Related Literature
 
-### Github Repositories
-- https://github.com/tum-esm/drive-inventory
-- https://github.com/tum-esm/heating-emission-inventory
+### Code Repositories
+**Public**
+- [GNFR F](https://github.com/tum-esm/drive-inventory)
+
+**Internal Only**
+- [GNFR A](https://github.com/tum-esm/public-power-emission-inventory), [GNFR C](https://github.com/tum-esm/heating-emission-inventory), [GNFR C - Time Profiles](https://github.com/tum-esm/time_profile_stationary_combustion), [Human Respiration](https://gitlab.lrz.de/esm/human-respiration-emission-inventory)
 
 ### Publications and Conference Presentations
 - **Kühbacher, D.**, Chen, J., Aigner, P., Ilic, M., Super, I., and Denier van der Gon, H.: DRIVE v1.0: A data-driven framework to estimate road transport emissions and temporal profiles, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-753, 2025.
@@ -47,6 +50,9 @@ uv sync         # Install dependencies from pyproject.toml
 - [WP1;T1.2: Final version of high-resolution city emission inventory for GHGs and co-emitted species for 2018, 2020 and 2022](https://fileshare.icos-cp.eu/s/3ksc9Jiscqw4nWo)
 - [WP2;T2.1: Temporally varying city emission inventory for GHGs and co-emitted species](https://fileshare.icos-cp.eu/s/AAnMdZR8efs6CBD)
 
+### Selected Publications that utilize the inventory
+
+- tbd
 
 ## Contributors
 |TUM Authors|Contact
