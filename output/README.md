@@ -40,3 +40,6 @@
 - No additional info
 ### Human Respiration
 - Profiles are available for three sub-sectors: "indoor residential," "indoor non-residential," and "outdoor."
+
+### Other Sectors
+Please refer to [Denier van der Gon et al., 2011](https://atmosphere.copernicus.eu/sites/default/files/2019-07/MACC_TNO_del_1_3_v2.pdf) for temporal profiles of other sectors.
