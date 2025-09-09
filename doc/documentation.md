@@ -7,7 +7,7 @@ The sectors of public power, stationary combustion, road transport, and human re
 Deliverable 1.2 for Munich provides a gridded emission inventory for the years of 2019 to 2022 with a spatial resolution of 1/600° x 1/1200° (about 100x100 m<sup>2</sup>). A summary of the characteristics of this emission inventory and the methodology for each sector is included in Table 4. An executive summary of the methodology can be found in section 4.1. Figure 1 shows the gridded product and point sources within the administrative boundary of the City of Munich. Densely built-up areas and streets are clearly discernible.</summary> <br><br>
 
 <p align="center">
-<img src="../img/CO2_year2022.png" alt="drawing" width="500" float= "center"/>
+<img src="../output/2019/Munich_total_CO2_2019.png" alt="drawing" width="600" float= "center"/>
 </p>
 
 ## Methodology
