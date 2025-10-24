@@ -34,8 +34,6 @@
   
 ### GNFR A
 - Temporal profiles correspond by name to present point sources
-- Only high-resolution profiles are present that can be sources from public sources (SMARD, Bundesnetzargentur)
-- There are additional high-resolution "internal-only" profiles for all point sources available in the NAS
 ### GNFR C
 - No additional info
 ### GNFR F
