@@ -6,6 +6,7 @@ The input data to compile the inventory is not tracked in GitHub due to file-siz
 
 |Version|Comment|
 |:----|:----|
+|v2.1|Fixes in GNFR C; Cleaned folder structure: Removed temporal profiles from input data folder.
 |v2.0|Extrapolated to 2023 and 2024 as well as new folder structure and temporal profiles.
 |v1.2|Inventory and input data as published for Deliverable 1.2 in the ICOS Cities Project.
 |v1.0|Initial inventory as published for Milestone 1.1 in the ICOS Cities Project.
