@@ -11,6 +11,7 @@
   
 ### GNFR A
 - Some values of 2024 are not available yet and were estimated based on previous years.
+- The column "Identifier" provides individual names for each point source to assign the correct temporal profile.
 ### GNFR C
 - Includes industry (GNFR_B) related gas/oil consumption for heating and production emissions extracted from individual EMAS reports
 ### GNFR F
@@ -33,7 +34,7 @@
 
   
 ### GNFR A
-- Temporal profiles correspond by name to present point sources
+- Temporal profiles correspond by name to present point sources (consider using the *.gpkg file which includes the column "Identifier")
 ### GNFR C
 - No additional info
 ### GNFR F
