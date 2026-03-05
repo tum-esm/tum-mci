@@ -2,7 +2,6 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/tum-esm/tum-mci?logo=github)](https://github.com/tum-esm/tum-mci/releases/latest)
 [![Latest Pre-release](https://img.shields.io/github/v/release/tum-esm/tum-mci?include_prereleases&label=pre-release&logo=github)](https://github.com/tum-esm/tum-mci/releases)
-[![Issues](https://img.shields.io/github/issues/tum-esm/tum-mci)](https://github.com/tum-esm/tum-mci/issues)
 [![Spatial Dataset DOI](https://img.shields.io/badge/ICOS%20Carbon%20Portal-10.18160%2F2K5S--967C-blue?logo=datacite)](https://doi.org/10.18160/2K5S-967C)
 [![Temporal Profiles DOI](https://img.shields.io/badge/ICOS%20Carbon%20Portal-10.18160%2F2K5S--967C-blue?logo=datacite)](https://doi.org/10.18160/Z2CB-JKQ2)  
 ---
