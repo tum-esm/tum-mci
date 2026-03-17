@@ -1,7 +1,7 @@
 [project]
 name = "tum-mci"
 version = "0.1.0"
-description = "Add your description here"
+description = "Bottom-up emission inventory for the City of Munich."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -19,4 +19,8 @@ dependencies = [
     "pyarrow>=21.0.0",
     "requests>=2.32.4",
     "seaborn>=0.13.2",
-]
+    "contextily>=1.6.2",
+    "plotly>=6.1.2",
+    "nbformat>=5.10.4",
+    "pydeck>=0.9.1",]
+
